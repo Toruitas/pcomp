@@ -23,10 +23,10 @@ The soldering proved to be more difficult than expected. I did remember to "tin"
 Also very happy that the goggles stayed on my glasses. $100+ for prescription goggles is out of my low student budget. 
 
 Click to view video.
-[![PWM VIDEO](https://github.com/Toruitas/pcomp-wk3/blob/master/1_soldered_circuit.JPG)](https://youtu.be/wF0G4sqYSjE "PWM VIDEO")
+[![PWM VIDEO](https://github.com/Toruitas/pcomp/wk3/blob/master/1_soldered_circuit.JPG)](https://youtu.be/wF0G4sqYSjE "PWM VIDEO")
 
 The perfboard + soldered circuit:
-![Perfboard Circuit](https://github.com/Toruitas/pcomp-wk3/blob/master/1_isolated_soldered_circuit.JPG)
+![Perfboard Circuit](https://github.com/Toruitas/pcomp/wk3/blob/master/1_isolated_soldered_circuit.JPG)
 
 ## Lab 02 - Voltage Dividers
 
@@ -72,10 +72,10 @@ Beta = Ic/ Ib
 Light is the base input voltage for the phototransistor. When its base gets power, the photoresistor responds by creating a current between the collector (plugged into +) and the emitter plugged into the second transistor's base. The base of the second transistor (black NPN) activates with this current and pulls current from its collector (again connected to +) and out its emitter,which supplies current to the LED. Current is then grounded out the other side of the LED. 
 
 Click to view video.
-[![PHOTOTRANSISTOR VIDEO](https://github.com/Toruitas/pcomp-wk3/blob/master/2c_phototransistor.JPG)](https://youtu.be/9CULAY7hTHc "PHOTOTRANSISTOR VIDEO")
+[![PHOTOTRANSISTOR VIDEO](https://github.com/Toruitas/pcomp/wk3/blob/master/2c_phototransistor.JPG)](https://youtu.be/9CULAY7hTHc "PHOTOTRANSISTOR VIDEO")
 
 View 1 of the circuit:
-![Phototransistor Circuit](https://github.com/Toruitas/pcomp-wk3/blob/master/2a_phototransistor.JPG)
+![Phototransistor Circuit](https://github.com/Toruitas/pcomp/wk3/blob/master/2a_phototransistor.JPG)
 
 View 2 of the circuit:
-![Phototransistor Circuit](https://github.com/Toruitas/pcomp-wk3/blob/master/2b_phototransistor.JPG)
+![Phototransistor Circuit](https://github.com/Toruitas/pcomp/wk3/blob/master/2b_phototransistor.JPG)

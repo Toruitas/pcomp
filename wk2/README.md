@@ -25,7 +25,7 @@ This is very close to 3, so we would likely get 3 dim red LEDs to light up. To v
 
 Sure enough, the 3 red LEDs are very dimly lit. 
 
-![3 red LEDs](https://github.com/Toruitas/pcomp-wk2/blob/master/3redleds.JPG)
+![3 red LEDs](https://github.com/Toruitas/pcomp/wk2/blob/master/3redleds.JPG)
 
 Adding another (not pictured) resulted in all the LEDs remaining dark.
 
@@ -59,7 +59,7 @@ So given that we cannot have half an LED, the Arduino will max out at 36 LEDs.
 
 I did start building these circuits, but after 13 very bright LEDs I realized that I couldn't even fit enough LEDs on the rbead board to get to 36. It would max out at 30.
 
-![13 red LEDs](https://github.com/Toruitas/pcomp-wk2/blob/master/13redleds.JPG)
+![13 red LEDs](https://github.com/Toruitas/pcomp/wk2/blob/master/13redleds.JPG)
 
 ## Lab 01 - Lab 01 - Serial Data
 
@@ -121,4 +121,4 @@ Why is it that way? Take for example, a mouseclick. A click opens a circuit, tel
 It's also important to note that this takes advantage of the Analog input pin.
 
 Click to view video.
-[![FSR VIDEO](https://github.com/Toruitas/pcomp-wk2/blob/master/fsr.JPG)](https://youtu.be/jNmjA7At94k "FSR VIDEO")
+[![FSR VIDEO](https://github.com/Toruitas/pcomp/wk2/blob/master/fsr.JPG)](https://youtu.be/jNmjA7At94k "FSR VIDEO")

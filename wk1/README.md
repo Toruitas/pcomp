@@ -37,15 +37,15 @@ Video of a play-through (Click to view on YouTube):
 [![GAMEPLAY VIDEO](https://i9.ytimg.com/vi/gqpZJV6mhek/mqdefault.jpg?time=1570394857301&sqp=CMyk6ewF&rs=AOn4CLBayOu7qrWswHx5CyTSdRDnxaQSyA)](https://youtu.be/gqpZJV6mhek "GAMEPLAY VIDEO")
 
 1. Click to start
-![Click start](https://github.com/Toruitas/pcomp-wk1/blob/master/1_press_start.JPG)
+![Click start](https://github.com/Toruitas/pcomp/wk1/blob/master/1_press_start.JPG)
 
 2. Target lights display (white light off)
-![Target](https://github.com/Toruitas/pcomp-wk1/blob/master/2_target.JPG)
+![Target](https://github.com/Toruitas/pcomp/wk1/blob/master/2_target.JPG)
 
 3. Players make their moves
-![Moves](https://github.com/Toruitas/pcomp-wk1/blob/master/3_player_move.JPG)
+![Moves](https://github.com/Toruitas/pcomp/wk1/blob/master/3_player_move.JPG)
 
 4. Scores flash after each round
-![Scores](https://github.com/Toruitas/pcomp-wk1/blob/master/4_display_scores.JPG)
+![Scores](https://github.com/Toruitas/pcomp/wk1/blob/master/4_display_scores.JPG)
 
 5. Another round starts automatically up to the max number of rounds - default is 7.
