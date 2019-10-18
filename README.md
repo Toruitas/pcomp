@@ -5,5 +5,7 @@ By Stuart Leitch
 
 ## Homework & Labwork
 [Week 1](https://github.com/Toruitas/pcomp/tree/master/wk1)
+
 [Week 2](https://github.com/Toruitas/pcomp/tree/master/wk2)
+
 [Week 3](https://github.com/Toruitas/pcomp/tree/master/wk3)
