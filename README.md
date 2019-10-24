@@ -1,6 +1,9 @@
 # Physical Computing 1
+
 Msc Creative Computing 2019
+
 Instructor: Phoenix Perry
+
 By Stuart Leitch 
 
 ## Homework & Labwork
