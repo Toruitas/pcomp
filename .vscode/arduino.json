@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "wk4\\servo1\\servo1.ino"
+}

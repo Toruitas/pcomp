@@ -9,3 +9,5 @@ By Stuart Leitch
 [Week 2](https://github.com/Toruitas/pcomp/tree/master/wk2)
 
 [Week 3](https://github.com/Toruitas/pcomp/tree/master/wk3)
+
+[Week 4](https://github.com/Toruitas/pcomp/tree/master/wk4)
