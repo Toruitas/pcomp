@@ -110,6 +110,7 @@ Taped card:
 ![Taped card](https://github.com/Toruitas/pcomp/wk4/blob/master/lab5a.JPG)
 
 Click to view video of base version of the lab:
+
 [![Physical Computing - Wk4 - Lab 5a](https://i9.ytimg.com/vi/rA1zn3ueJZA/mq1.jpg?sqp=CI-Yx-0F&rs=AOn4CLA4wvdAaT88k3bm-mNpn7oRDcFEAg)](https://youtu.be/rA1zn3ueJZA  "Physical Computing - Wk4 - Lab 5a")
 
 Then we wanted to make it a bit more interesting. We added an output pin to an LED and turned it on or off based on the readings from the capacitive sensor.
