@@ -6,6 +6,9 @@ Instructor: Phoenix Perry
 
 By Stuart Leitch 
 
+## Final Project:
+Link: [Thinking Cap](https://github.com/Toruitas/thinkingcap)
+
 ## Homework & Labwork
 [Week 1](https://github.com/Toruitas/pcomp/tree/master/wk1)
 
