@@ -17,3 +17,7 @@ Link: [Thinking Cap](https://github.com/Toruitas/thinkingcap)
 [Week 3](https://github.com/Toruitas/pcomp/tree/master/wk3)
 
 [Week 4](https://github.com/Toruitas/pcomp/tree/master/wk4)
+
+Week 5 was pushed to week 6.
+
+[Week 6](https://github.com/Toruitas/pcomp/tree/master/wk6)
