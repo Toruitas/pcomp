@@ -23,3 +23,7 @@ Week 5 was pushed to week 6.
 [Week 6](https://github.com/Toruitas/pcomp/tree/master/wk6)
 
 [Week 7](https://github.com/Toruitas/pcomp/tree/master/wk7)
+
+[Week 8 - group documentation of Feather](https://github.com/phoenixperry/cci-ual-pcomp/tree/master/week08/feather_docs)
+
+[Week 9 - Eagle](https://github.com/Toruitas/pcomp/tree/master/wk9)
